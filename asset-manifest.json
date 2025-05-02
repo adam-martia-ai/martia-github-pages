@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/martia-github-pages/static/css/main.c5b39698.css",
+    "main.js": "/martia-github-pages/static/js/main.157cb1de.js",
+    "tsub-middleware.js": "/martia-github-pages/static/js/tsub-middleware.2162f1d8.chunk.js",
+    "ajs-destination.js": "/martia-github-pages/static/js/ajs-destination.59a72507.chunk.js",
+    "legacyVideos.js": "/martia-github-pages/static/js/legacyVideos.d669a903.chunk.js",
+    "schemaFilter.js": "/martia-github-pages/static/js/schemaFilter.535cb2d6.chunk.js",
+    "remoteMiddleware.js": "/martia-github-pages/static/js/remoteMiddleware.2c6a393a.chunk.js",
+    "auto-track.js": "/martia-github-pages/static/js/auto-track.fc2aa27a.chunk.js",
+    "queryString.js": "/martia-github-pages/static/js/queryString.dd2e1f6a.chunk.js",
+    "static/js/381.dc0378bf.chunk.js": "/martia-github-pages/static/js/381.dc0378bf.chunk.js",
+    "index.html": "/martia-github-pages/index.html",
+    "main.c5b39698.css.map": "/martia-github-pages/static/css/main.c5b39698.css.map",
+    "main.157cb1de.js.map": "/martia-github-pages/static/js/main.157cb1de.js.map",
+    "tsub-middleware.2162f1d8.chunk.js.map": "/martia-github-pages/static/js/tsub-middleware.2162f1d8.chunk.js.map",
+    "ajs-destination.59a72507.chunk.js.map": "/martia-github-pages/static/js/ajs-destination.59a72507.chunk.js.map",
+    "legacyVideos.d669a903.chunk.js.map": "/martia-github-pages/static/js/legacyVideos.d669a903.chunk.js.map",
+    "schemaFilter.535cb2d6.chunk.js.map": "/martia-github-pages/static/js/schemaFilter.535cb2d6.chunk.js.map",
+    "remoteMiddleware.2c6a393a.chunk.js.map": "/martia-github-pages/static/js/remoteMiddleware.2c6a393a.chunk.js.map",
+    "auto-track.fc2aa27a.chunk.js.map": "/martia-github-pages/static/js/auto-track.fc2aa27a.chunk.js.map",
+    "queryString.dd2e1f6a.chunk.js.map": "/martia-github-pages/static/js/queryString.dd2e1f6a.chunk.js.map",
+    "381.dc0378bf.chunk.js.map": "/martia-github-pages/static/js/381.dc0378bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5b39698.css",
+    "static/js/main.157cb1de.js"
+  ]
+}
